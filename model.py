@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import pandas as pd
 import nltk
 import re
@@ -46,7 +46,7 @@ def predict_sentiment_proba(text):
     labels = model.classes_
 
     return dict(zip(labels, probs))
-=======
+
 import pandas as pd
 import nltk
 import re
@@ -94,4 +94,4 @@ def predict_sentiment_proba(text):
     labels = model.classes_
 
     return dict(zip(labels, probs))
->>>>>>> 180960f95c418b2e5668c77c79a3c2af97b7e077
+
