@@ -198,8 +198,7 @@ Middle of the road,neutral
 Fair result,neutral
 Generic product,neutral
 Typical quality,neutral
-=======
-text,label
+
 I love this product,positive
 This is amazing,positive
 Very happy with the service,positive
@@ -248,4 +247,4 @@ Kind of average,neutral
 kind of,neutral
 i hate that,neutral
 love,positive
->>>>>>> 180960f95c418b2e5668c77c79a3c2af97b7e077
+
