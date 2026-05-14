@@ -188,7 +188,7 @@ if st.session_state.history:
         label="📥 Download CSV",
         data=csv,
         file_name="sentiment_results.csv",
-        mime="text/csv"
+        mime="text/csv")
 
 import streamlit as st
 import pandas as pd
@@ -381,5 +381,5 @@ if st.session_state.history:
         data=csv,
         file_name="sentiment_results.csv",
         mime="text/csv"
->>>>>>> 180960f95c418b2e5668c77c79a3c2af97b7e077
+
     )
