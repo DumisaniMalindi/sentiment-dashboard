@@ -8,7 +8,6 @@ matplotlib
 seaborn
 wordcloud
 plotly
-=======
 streamlit
 pandas
 numpy
