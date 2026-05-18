@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 streamlit
 pandas
 numpy
@@ -18,4 +18,4 @@ matplotlib
 seaborn
 wordcloud
 plotly
->>>>>>> 180960f95c418b2e5668c77c79a3c2af97b7e077
+
